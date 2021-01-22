@@ -76,6 +76,7 @@
     "ember-source": "~3.20.0",
     "ember-svg-jar": "^2.2.3",
     "ember-template-lint": "^2.8.0",
+    "ember-toggle": "^7.1.0",
     "ember-truth-helpers": "^2.1.0",
     "eslint": "^7.1.0",
     "eslint-plugin-ember": "^8.6.0",
